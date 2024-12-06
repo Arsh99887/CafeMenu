@@ -1,0 +1,111 @@
+body{
+    background-image: url(Beans.png);
+ 
+}
+
+.box{
+    background-color: rgb(231, 190, 141);
+    height: 180vh;
+width: 80%;
+margin-left: 150px;
+margin-right: 150px;
+margin-top:15px;
+}
+
+.heading{
+    height: 100px;
+    max-width: 100%;
+    padding-top: 30px;
+    text-align: center;
+    font-family:'Trebuchet MS', sans-serif;
+font-weight: bold;
+font-size: 70px;
+}
+
+.text{
+font-style:italic;
+    text-align: center;
+
+}
+
+hr{
+    height: 10px;
+    background-color: black;
+    margin-left:20px ;
+    margin-right: 20px;
+}
+
+.coffeeprizes{
+    margin-top: 2%;
+  margin-bottom: 30%;
+    height: 100px;
+}
+.coffee{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 60px;
+    font-family:'Trebuchet MS', sans-serif;
+    font-weight:500;
+}
+
+.image{
+    text-align: center;
+    margin-top: 60px;
+   
+}
+
+
+.types,.prizes{
+    position: absolute;
+}
+.types{
+    width: 50%;
+    margin-left: 20px;
+    font-size: 30px;
+    
+}
+.prizes{
+    width: 10%;
+margin-right:40px ;
+margin-left: 60% ;
+    font-size: 30px;
+}
+
+.dessertsprizes{
+    margin-top: 30%;
+    margin-bottom: 10%;
+    height: 25%;
+}
+.image2{
+    text-align: center;
+}
+.desserts{
+    margin-top: 7px;
+  text-align: center;
+  font-size: 60px;
+  font-family:'Trebuchet MS', sans-serif;
+  font-weight:500;
+}
+
+
+/* .types2,.prizes2{
+    position: absolute;
+}
+.types2{
+    width: 50%;
+    margin-left: 20px;
+    font-size: 30px;
+    
+}
+.prizes2{
+    width: 10%;
+margin-right:40px ;
+margin-left: 60% ;
+    font-size: 30px;
+} */
+
+.visit{
+    text-align: center;
+    font-size: 40px;
+}
